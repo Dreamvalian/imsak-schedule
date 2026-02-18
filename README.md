@@ -40,7 +40,7 @@ npm install
 Create a file named `.env.local` in the project root:
 
 ```bash
-MUSLIMSALAT_API_KEY=fdae87a90467b6fa3bfe8e9b7932d820
+MUSLIMSALAT_API_KEY=#
 ```
 
 You can replace the value with your own key from https://muslimsalat.com/api/.
